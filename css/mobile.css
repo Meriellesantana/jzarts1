@@ -1,0 +1,318 @@
+@media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
+    header{
+        background-color: #212121;
+    }
+    .container{
+        margin-left: 4% !important;
+        margin-right: 4% !important;
+    }
+    .empresa{
+        position: relative;
+        
+    }
+    .botao{
+        width: 177%;
+        height: 101%;
+       
+    }
+    .botao1{
+        background-color: #212121;
+        width: 212%;
+        height: 125%;
+        margin-left: -23%;
+        margin-top: -237%;
+        display: none;
+       
+    }
+
+    .btm{
+       
+        z-index: 2000;
+        width: 5%;
+        height: 42%;
+        position: absolute;
+        top: 39%;
+        left: 2%;
+    }
+  
+    .sub{
+        display: none;
+     
+    }
+    .sub2{
+        font-size: 18px;
+        display: none;
+        margin-left: 5%;
+        padding-top: 3%;
+       
+    }
+    .nomeempresa{
+        font-size: 75px;
+        margin-left: 17%;
+       
+    }
+    .slogan{
+        display: none;
+    }
+    .menu{
+        margin-left: 6%;
+        font-size: 49px;
+        line-height: 187%;
+    }
+    nav{
+        margin-top: -8%;
+        margin-left: 77%;
+        margin-right: -33%;
+    
+    }
+    
+    .sub{
+        display: none;
+    }
+    .idioma{
+        text-decoration: none;
+        color: white;
+        margin-left: 12%;
+        font-size: 50px;
+        font-weight: 400;
+        line-height: 5%;
+        }
+    .caixa{
+        display: none;
+    }
+    .sect1{
+        margin-top: -1%;
+        padding-bottom: 5%;
+        background-color: #212121;;
+    }
+    h1{
+        font-size: 63px;
+        color: #ffffff;
+        font-weight: 300;
+        line-height: 81.41px;
+        padding-top: 10%;
+    }
+    .sect2,.sect3,.sect4{
+        margin-top: -1%;
+        background-color: #000000;
+        padding-top: 10%;
+        padding-bottom: 10%;
+    }
+    .img20,.img21,.img22{
+        display: none;
+    }
+    .clien{
+     display: flex;
+        flex-wrap: wrap;
+        margin-bottom: 5%;
+        width: 70%;
+        margin-left: 7%;
+    }
+    .clientes {
+        padding-top: 10%;
+        padding-bottom: 11%;
+        font-size: 79px;
+        
+    }
+    .imgocl{
+        background-color: black;
+        width: 100%;
+    }
+    h2{
+        font-size: 80px;
+        color: #ffffff;      
+        font-weight: 300;
+    
+    }
+    h3{
+        font-size: 32px;
+        color: #ffffff;
+        font-weight: 300;        
+        line-height: 40px;     
+        padding-right: 1%;
+   
+        
+    }
+    .jz{
+        width: 100%;
+        padding-top: 6%;
+        padding-left: 6%;
+        
+    }
+    .jz1{
+        width: 100%;
+        padding-top: 6%;
+        padding-left: 6%;
+        padding-right: 6%;
+    }
+    .jzar1{
+        padding-bottom: 13%;
+        padding-top: 5%;
+        font-size: 25px;
+        font-weight: 400;
+        color: #ffffff;
+    }
+    .sect7{
+        background-color: #F5F5F5;
+    }
+    #dis{
+        display: flex;
+        flex-direction: column-reverse;
+    }
+    #form4{
+     display: none;
+        
+    }
+    .estamos {
+        margin-right: -13%;
+        margin-top: 2%;
+    }
+    .precisar {
+        margin-left: -6%;
+    }
+    .deixe{
+        font-size: 25px;
+        margin-left: -6%;
+        padding-top: 12%;
+    }
+    .form2{
+  
+        flex-direction: column;
+    }
+    label{
+        font-size: 25px;
+        margin-bottom: 5%;
+        margin-top: 5%;
+    } 
+    input{
+        font-size: 20px;
+        
+    } 
+    #nomes2, #emp2{
+        width: 96%;
+    }
+    #p2{
+        margin-left: 0%;
+    }
+    input[type=email]{
+        width: 96%;
+        margin-left: 0%;
+    }
+    #cel2, #firma2{
+        margin-top: 5%;
+       
+    }
+    input[type=tel]{
+        width:96%;
+       
+    }
+    #men2{
+        margin-top: 8%;
+        margin-left: 0%;
+    }
+    textarea{
+        margin-left: 0%;
+        font-size: 20px;
+       
+    }
+    .check{
+        margin-top: 2%;
+        font-size: 25px;
+    }
+    input[type=checkbox]{
+        width: 10%;
+    }
+    .check input{
+        width: 20px;
+        height: 20px;
+        margin-right: 5px;
+            }
+     .lab{
+         margin-top: -6%;
+         margin-left: 4%;
+     }
+     .salvar{
+        top:1023%;
+        padding-left: 30%;
+        padding-right: 30%;
+        padding-top: 1.5%;
+        padding-bottom: 1.5%;
+        margin-left: -40%;
+        font-size: 36px;
+    }
+    .rec6,.tp,h6{
+        display: none;
+    }
+    footer{
+        background-color:  #1b1a1a;
+    }
+    .sect8{
+        background-color: #1b1a1a;
+        margin-top: 0%;
+        padding-bottom: 9%;
+        width: 100%;
+       
+    } 
+    .inform, .redes{
+        display: flex;
+        flex-direction: column;
+         
+    } 
+   
+    h4{
+        
+        font-size: 88px;
+        margin-left: 58%;
+        margin-top: 18%;
+    
+      
+    }
+    h5{
+       
+        font-size: 39px;
+        padding-left: 15%;
+        margin-left: 34%;
+        margin-right: -19%;
+        margin-top: 5%;
+        
+    }
+    .logo{
+        margin-left: -11%;
+        position: absolute;
+        top: 43%;
+        left: 39%;
+    }
+    .lay{
+        width: 72%;
+    }
+    .soci{
+        margin-left: 43%;
+    }
+    .siga{
+        margin-top: 67%;
+        font-size: 53px;
+        font-weight: 600;
+        margin-left: 42%;
+    }
+    .red{
+
+        margin-top: 13%;
+        margin-left: 11%;
+        width: 12%;
+    }
+    .idioma2{
+        font-size: 34px;
+        margin-left: 15%;
+    }
+    .reser{
+        margin-top: 21%;
+        margin-left: 40%;
+    }
+    .reservado{
+       
+        font-size: 34px;
+        margin-left: -18%;
+        margin-right: -34%;
+    }
+  
+}

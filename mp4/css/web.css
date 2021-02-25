@@ -1,0 +1,165 @@
+@media only screen  and (min-width : 1024px) {
+    header{
+        background-color: #000000;
+        padding-bottom: 1%;
+    }
+    .container{
+        margin-left: 6% !important;
+        margin-right: 6% !important;
+    }
+    .idioma2{
+        text-decoration: none;
+        color: white;
+        margin-left: 5%;
+        font-size: 14px;
+        font-weight: 400;
+        line-height: 5%;
+     }
+    
+    .btm{
+        display: none
+    }
+    .sub2{
+        display: none;
+    }
+    .nomeempresa{
+        font-size: 24px;
+        padding-top: 2%;
+        padding-right: 6%;
+    }
+    .slogan{
+        color: #F8D930;
+        font-size: 14px;
+        font-weight: 400;
+        padding-right: 6%;
+      
+    }
+    .botao, .botão1{
+        display: none;
+
+    }
+
+    nav{
+        width: 45%;
+        position: absolute;
+        top: 13%;
+        left: 0%;
+        z-index: 300000;
+    }
+    .menu, .idioma{
+        text-decoration: none;
+        color: white;
+        margin-left: 5%;
+        font-size: 14px;
+        font-weight: 400;
+        line-height: 5%;
+       
+    }
+    .menu:hover{
+        color: #F8D930;
+        border-bottom: solid 1px #F8D930;
+      
+    }
+    .sect1,.sect2,.sect3,.sect4{
+        position: relative;
+        background-color: #000000;
+    }
+    .clien{
+        
+        margin-bottom: 5%;
+        width: 9%;
+        margin-left: 7%;
+    }
+    h1{
+        font-weight: 300;
+        font-size: 42px;
+        color: #ffffff;
+        position: absolute;
+        top: 8%;
+        left: 61%;
+        line-height: 77px;
+    }
+    h2{
+        font-size: 80px;
+        position: absolute;
+        top: 28%;
+        left: 6%;
+    
+    }
+    h3{
+        font-size: 18px;
+        position: absolute;
+        top: 60%;
+        left: 6%; 
+    }
+    .somos{
+        display: flex;
+        flex-direction: row;
+         
+    }
+    .jz{
+        width: 49%;
+        padding-top: 6%;
+        padding-left: 6%;
+      
+    }
+    .jz1{
+        width: 59%;
+        padding-top: 6%;
+        padding-left: 4%;
+        padding-right: 6%;
+    }
+    .sect7{
+        display: flex;
+        flex-direction: row;
+        padding-top: 5%;
+        background-color: #F5F5F5;
+        padding-bottom: 10%;
+        position: relative;
+    }
+    #dis{
+        display: flex;
+        flex-direction: row;
+    }
+    .estamos {
+        margin-left: 6%;
+        margin-right: -13%;
+        margin-top: 2%;
+    }
+    .estamos {
+        margin-left: 6%;
+       
+    }
+    .deixe{
+       font-size: 14px;
+      
+    }
+    label{
+        font-size: 12px;
+    }
+    input{
+        font-size: 14px;
+    }
+    #form5{
+        display: none;
+    }
+    #nomes{
+        width: 173%;
+    }
+    .lab{
+        margin-top: 2%;
+        font-size: 12px;
+    }
+    .salvar{
+        top: 71%;
+        padding-left: 7%;
+        padding-right: 7%;
+        padding-top: 0.5%;
+        padding-bottom: 0.5%;
+       
+    }
+    footer{
+        display: flex;
+        background-color: #F5F5F5;
+    }
+}

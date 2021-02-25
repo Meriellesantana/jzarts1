@@ -1,0 +1,354 @@
+*{
+    outline: none;
+    font-family: 'Open Sans', sans-serif;
+   
+   
+}
+
+header{
+    background-color: #212121
+    ;
+    padding-bottom: 1%;
+
+}
+.container{
+    margin-left: 6% !important;
+    margin-right: 6% !important;
+}
+.empresa{
+    position: relative;
+   
+}
+.btm{
+   
+    z-index: 2000;
+    width: 2%;
+    height: 42%;
+    position: absolute;
+    top: 50%;
+}
+.nomeempresa{
+    color: rgb(255, 255, 255);
+    font-size: 24px;
+    font-weight: 400;
+    padding-top: 2%;
+    padding-right: 6%;
+    
+  
+}
+.slogan{
+    color: #F8D930;
+    font-size: 14px;
+    font-weight: 400;
+    padding-right: 6%;
+  
+}
+nav{
+    margin-top: -2%;
+    margin-bottom: 1%;
+    margin-left: 54%;
+    padding-left: 6%;
+   
+}
+.menu, .idioma, .idioma2{
+    text-decoration: none;
+    color: white;
+    margin-left: 5%;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 5%;
+ }
+ .menu:hover{
+    color: #F8D930;
+    border-bottom: solid 1px #F8D930;
+ }
+ .idioma:active, .idioma2:active{
+    color: #F8D930;
+ }
+ .idioma:hover, .idioma2:hover{
+    color: #F8D930;
+ }
+.sect1,.sect2,.sect3,.sect4, .sect6{
+    background-color: #212121;
+}
+
+.img20,.img21, .img22{
+    width: 100%;
+
+}
+.img18{
+    width: 65%;
+    padding-bottom: 2%;
+    padding-top: 6%;
+}
+h1{
+    font-weight: 300;
+    font-size: 42px;
+    color: #ffffff;
+    line-height: 77px;
+}
+
+h2{
+    font-size: 80px;
+    color: #ffffff;
+    font-weight: 300;
+
+}
+h3{
+    font-size: 18px;
+    color: #ffffff;
+    font-weight: 400;
+    line-height: 34px;
+    padding-right: 6%;
+    
+}
+.sect5{
+    background-color: #1b1a1a;
+}
+.clientes{
+    padding-top: 2%;
+    font-size: 52px;
+    color: #ffffff;
+    font-weight: 400;
+}
+.logos{
+    
+    padding-bottom: 3%;
+    padding-top: 2%;
+    margin-left: -7%;
+}
+.clien{
+ 
+    margin-bottom: 5%;
+    width: 9%;
+    margin-left: 7%;
+}
+
+.jz{
+   
+    padding-top: 6%;
+    padding-left: 6%;
+    background-color: #ffffff;
+}
+.jza{
+    font-size: 52px;
+    font-weight: 600;
+    margin-bottom: 6%;
+    color: #000000;
+    
+}
+.jzar{
+    padding-bottom: 13%;
+    font-size: 37px;
+    font-weight: 600;
+    color: #969696;
+}
+.jz1{
+    background-color: #1b1a1a;
+    padding-top: 6%;
+    padding-left: 4%;
+    padding-right: 6%;
+}
+.jza1{
+    font-size: 52px;
+    font-weight: 600;
+    color: #ffffff;
+    
+}
+.jzar1{
+    padding-bottom: 13%;
+    padding-top: 5%;
+    font-size: 17px;
+    font-weight: 400;
+    color: #ffffff;
+}
+#form4{
+    display: flex;
+    flex-direction: row;
+    padding-top: 5%;
+    background-color: #F5F5F5;
+}
+.sect7{
+    padding-top: 5%;
+    background-color:#F5F5F5;
+    padding-bottom: 10%;
+    
+}
+
+input{
+    border: none;
+    border-bottom: #000000 1px solid;
+    font-size: 14px;
+    font-weight: 600;
+    background-color: #F5F5F5;
+
+}
+#nomes{
+    width: 173%;
+}
+input[type=email]{
+    width: 71%;
+    margin-left: 36%;
+}
+input[type=tel]{
+    width: 112%;
+   
+}
+#emp{
+    width: 112%;
+} 
+#p{
+    margin-left: 36%;
+}
+#cel{
+    margin-top: 22%;
+}
+#firma{
+    margin-top: 58%;
+}
+#men{
+    margin-top: 8%;
+    margin-left: 12%;
+}
+textarea{
+    border: none;
+    border-bottom: #000000 1px solid;
+    font-size: 14px;
+    font-weight: 600;
+    margin-left: 12%;
+    background-color: rgba(255, 255, 255, 0);
+}
+label{
+    font-size: 12px;
+    font-weight: 300;
+    color: #4b4949c2;
+}
+
+.estamos {
+    margin-left: 6%;
+    margin-right: -13%;
+    margin-top: 2%;
+}
+.precisar{
+    color: #000000;
+    font-size: 52px;
+    font-weight: 400;
+
+}
+.deixe{
+    color: #000000;
+    font-size: 14px;
+    font-weight: 400;
+}
+
+.check{
+    margin-top: 2%;
+    font-size: 12px;
+}
+
+.salvar{
+    position: absolute;
+    top: 71%;
+    left: 45.5%;
+    background-color: #F8D930;
+    color: #000000;
+    padding-left: 7%;
+    padding-right: 7%;
+    padding-top: 0.5%;
+    padding-bottom: 0.5%;
+    border: none;
+}
+
+
+footer{
+    display: flex;
+    position: relative;
+    background-color: #F5F5F5;
+    height: 637px;
+
+}
+.rec6{
+    position: absolute;
+    top: -2%;
+    left: 26.9%;
+    width: 73.1%;
+    z-index: 1000;
+}
+.sect8{
+    background-color: #1b1a1a;
+    z-index: 6000;
+    position: absolute;
+    margin-top: 9%;
+    padding-bottom: 10%;
+    width: 94%;
+   
+}  
+
+.inf{
+    z-index: 2000;
+    width: 90%;
+    padding-top: 5%;
+}
+.inform, .redes{
+    display: flex;
+    flex-direction: row;
+     
+}
+.end{
+    margin-right: 16%;
+}
+.slogan2{
+    margin-right: 23%;
+}
+h4{
+    color: #ffffff;
+    font-size: 18px;
+    font-weight: 600;
+  
+}
+h5{
+    color: #cac8c8;
+    font-size: 13px;
+    font-weight: 300;
+    
+}
+h6{   
+    color: #ffffff;
+    font-size: 40px;
+    font-weight: 600;
+    margin-left: 41%;
+    margin-right: -56%;
+
+}
+.logo{
+    margin-left: 2%;
+    position: absolute;
+    top: 12%;
+    right: 10%;
+}
+.siga{
+    margin-top: 116%;
+    margin-right: -6%;
+    color: #ffffff;
+    font-size: 18px;
+    font-weight: 600;
+}
+.red{
+    margin-left: 8%;
+}
+.reser{
+    margin-top: 12.5%;
+    margin-left: 41%;
+}
+.reservado{
+    color:  #cac8c8;
+    font-size: 14px;
+    font-weight: 300;
+    margin-left: -25%;
+}
+.tp{
+   position: absolute;
+   top: 72%;
+   right:-4.3%;
+}
+
